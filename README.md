@@ -1,6 +1,6 @@
 ## Hey 👋, This is Tyler Fong
 [![Gmail Badge](https://img.shields.io/badge/-tpfong04@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tpfong04@gmail.com)](mailto:tpfong04@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-TylerFong-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Tyler-Fong/)](https://www.github.com/Tyler-Fong/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tyler-Fong/Data_Projects_TripleTen/)](https://github.com/Tyler-Fong/Data_Projects_TripleTen/) <p align='left'>Business intelligence analyst with experience in SQL, Tableau, Power BI, Google Spreadsheets, data visualization, and Python with a background in banking.
+[![Github Badge](https://img.shields.io/badge/-TylerFong-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Tyler-Fong/)](https://www.github.com/Tyler-Fong/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tyler-Fong/Data_Projects_TripleTen/)](https://github.com/Tyler-Fong/Data_Projects_TripleTen/) <p align='left'>Business intelligence analyst with experience in SQL, Tableau, Power BI, Google Sheets, data visualization, and Python with a background in banking.
 
 As a detail oriented individual, I've always excelled at working with numbers and I first developed an interest in banking while being a teller. This led to an unexpected passion for analyzing data!
 
